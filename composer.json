@@ -1,0 +1,16 @@
+{
+    "name": "root/makingchanges.prodev.app",
+    "autoload": {
+        "psr-4": {
+            "Root\\MakingchangesProdevApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caky"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.3"
+    }
+}
